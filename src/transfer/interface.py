@@ -33,7 +33,7 @@ class Interface:
         self.__configurations = config.Config()
 
         # Metadata dictionary
-        self.__metadata = src.transfer.metadata.Metadata(connector=connector).exc(architecture='variational')
+        self.__metadata = src.transfer.metadata.Metadata(connector=connector).exc()
 
     def __set_metadata(self, frame: pd.DataFrame) -> pd.DataFrame:
         """
