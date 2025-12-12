@@ -1,5 +1,13 @@
 <br>
 
+master<br>
+[![Hydrography: Structural Time Series Modelling + Variational Inference](https://github.com/repatterning/arc-state-space-sandbox/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/repatterning/arc-state-space-sandbox/actions/workflows/main.yml)
+
+develop<br>
+[![Hydrography: Structural Time Series Modelling + Variational Inference](https://github.com/repatterning/arc-state-space-sandbox/actions/workflows/main.yml/badge.svg?branch=develop)](https://github.com/repatterning/arc-state-space-sandbox/actions/workflows/main.yml)
+
+<br>
+
 ### River level prediction via Bayesian Structural Time Series + Variational Inference
 
 <br>
@@ -36,6 +44,17 @@ A key advantage of state space modelling is $\rightarrow$ modelling via the supe
 In practice, model development is via <a href="https://www.tensorflow.org/probability" target="_blank">TensorFlow Probability</a> libraries.  Visit the project's river level modelling [GitHub] <a href="https://github.com/repatterning/variational/tree/master" target="_blank">repository</a>; <a href="https://github.com/repatterning/variational/blob/master/src/modelling/architecture.py" target="_blank">modelling class</a>; the modelling arguments are readable <a href="https://github.com/repatterning/configurations/blob/master/src/artefacts/architecture/variational/arguments.yaml" target="_blank">with</a> or <a href="https://github.com/repatterning/configurations/blob/master/src/artefacts/architecture/variational/arguments.json" target="_blank">without</a> comments/definitions.
               
 
+<br>
+<br>
+
+<br>
+<br>
+
+<br>
+<br>
+
+<br>
+<br>
 
 <br>
 <br>
@@ -50,3 +69,6 @@ In practice, model development is via <a href="https://www.tensorflow.org/probab
 <br>
 
 [^1]: For more about the structure options of $\pmb{\varsigma}\_{t}$, i.e., system errors, study <a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-9/issue-1/Inferring-causal-impact-using-Bayesian-structural-time-series-models/10.1214/14-AOAS788.full" target="_blank">Inferring causal impact using Bayesian structural time-series models</a>, and <a href="https://link.springer.com/book/10.1007/978-3-030-76124-0" target="_blank">Bayesian Inference of State Space Models</a>
+
+<br>
+<br>
